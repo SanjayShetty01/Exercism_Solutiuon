@@ -10,3 +10,5 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.02.17 07:19:25 INFO  time: initialize in 3.05s
 2023.02.17 07:19:26 WARN  Build server is not auto-connectable.
 2023.02.17 07:19:26 WARN  no build tool detected in workspace 'D:\Programming_Problem_Solving'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.18 13:52:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programming_Problem_Solving\.metals\lsp.trace.json or C:\Users\sanjaya\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.18 13:52:38 INFO  logging to file D:\Programming_Problem_Solving\.metals\metals.log
