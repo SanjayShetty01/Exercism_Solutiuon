@@ -12,3 +12,24 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.02.17 07:19:26 WARN  no build tool detected in workspace 'D:\Programming_Problem_Solving'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2023.02.18 13:52:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programming_Problem_Solving\.metals\lsp.trace.json or C:\Users\sanjaya\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2023.02.18 13:52:38 INFO  logging to file D:\Programming_Problem_Solving\.metals\metals.log
+2023.02.18 13:52:38 INFO  Started: Metals version 0.11.10 in workspace 'D:\Programming_Problem_Solving' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/sanjaya/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.18 13:52:44 INFO  time: initialize in 5.53s
+2023.02.18 13:52:44 WARN  Build server is not auto-connectable.
+2023.02.18 13:52:44 WARN  no build tool detected in workspace 'D:\Programming_Problem_Solving'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.18 13:52:45 WARN  no build target for: D:\Programming_Problem_Solving\Hello_World.scala
+2023.02.18 13:52:57 INFO  no build target found for D:\Programming_Problem_Solving\Hello_World.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.18 13:52:59 INFO  time: code lens generation in 13s
+2023.02.18 13:53:05 WARN  no build target for: D:\Programming_Problem_Solving\Hello_World.scala
+2023.02.18 13:55:25 WARN  no build target for: D:\Programming_Problem_Solving\Hello_World.scala
+2023.02.18 13:58:37 WARN  Build server is not auto-connectable.
+2023.02.18 13:58:39 WARN  Build server is not auto-connectable.
+2023.02.18 13:59:22 WARN  no build target for: D:\Programming_Problem_Solving\Two_Fer.scala
+2023.02.18 14:01:03 WARN  no build target for: D:\Programming_Problem_Solving\Leap_Year.scala
+2023.02.18 14:01:07 WARN  no build target for: D:\Programming_Problem_Solving\Leap_Year.scala
+2023.02.18 14:01:17 WARN  no build target for: D:\Programming_Problem_Solving\Leap_Year.scala
