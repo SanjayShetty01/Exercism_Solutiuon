@@ -43,3 +43,16 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.02.19 21:15:39 WARN  no build target for: D:\Programming_Problem_Solving\ETL.scala
 2023.02.19 21:16:29 WARN  no build target for: D:\Programming_Problem_Solving\Difference_of_Square.scala
 2023.02.19 21:16:38 WARN  no build target for: D:\Programming_Problem_Solving\Difference_of_Square.scala
+2023.02.19 21:52:41 WARN  no build target for: D:\Programming_Problem_Solving\Bob.scala
+2023.02.19 21:52:46 WARN  no build target for: D:\Programming_Problem_Solving\Bob.scala
+2023.02.19 21:53:13 WARN  no build target for: D:\Programming_Problem_Solving\Binary_Search.scala
+2023.02.19 21:53:17 WARN  no build target for: D:\Programming_Problem_Solving\Binary_Search.scala
+2023.02.19 21:53:43 WARN  no build target for: D:\Programming_Problem_Solving\Pangram.scala
+2023.02.19 21:53:50 WARN  no build target for: D:\Programming_Problem_Solving\Pangram.scala
+2023.02.19 21:54:11 WARN  no build target for: D:\Programming_Problem_Solving\Isogram.scala
+2023.02.19 21:54:14 WARN  no build target for: D:\Programming_Problem_Solving\Isogram.scala
+2023.02.19 21:54:44 WARN  no build target for: D:\Programming_Problem_Solving\Grains.scala
+2023.02.19 21:54:47 WARN  no build target for: D:\Programming_Problem_Solving\Grains.scala
+2023.02.19 21:56:09 WARN  no build target for: D:\Programming_Problem_Solving\Grade_School.scala
+2023.02.19 21:56:13 WARN  no build target for: D:\Programming_Problem_Solving\Grade_School.scala
+2023.02.19 22:07:31 INFO  shutting down Metals
