@@ -58,3 +58,23 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.02.19 22:07:31 INFO  shutting down Metals
 2023.02.20 21:52:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programming_Problem_Solving\.metals\lsp.trace.json or C:\Users\sanjaya\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2023.02.20 21:52:52 INFO  logging to file D:\Programming_Problem_Solving\.metals\metals.log
+2023.02.20 21:52:52 INFO  Started: Metals version 0.11.10 in workspace 'D:\Programming_Problem_Solving' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/sanjaya/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.20 21:52:54 INFO  time: initialize in 1.62s
+2023.02.20 21:52:54 WARN  Build server is not auto-connectable.
+2023.02.20 21:52:54 WARN  no build tool detected in workspace 'D:\Programming_Problem_Solving'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.20 21:52:54 WARN  no build target for: D:\Programming_Problem_Solving\Triangle.scala
+2023.02.20 21:52:59 INFO  no build target found for D:\Programming_Problem_Solving\Triangle.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.20 21:53:02 INFO  time: code lens generation in 7.03s
+2023.02.20 21:56:40 WARN  no build target for: D:\Programming_Problem_Solving\Triangle.scala
+2023.02.20 22:11:41 WARN  no build target for: D:\Programming_Problem_Solving\Collatz_Conjecture.scala
+2023.02.20 22:11:49 WARN  no build target for: D:\Programming_Problem_Solving\Collatz_Conjecture.scala
+2023.02.20 22:13:21 WARN  no build target for: D:\Programming_Problem_Solving\Collatz_Conjecture.scala
+2023.02.21 08:03:20 INFO  shutting down Metals
+2023.02.21 20:27:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programming_Problem_Solving\.metals\lsp.trace.json or C:\Users\sanjaya\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.02.21 20:27:57 INFO  logging to file D:\Programming_Problem_Solving\.metals\metals.log
